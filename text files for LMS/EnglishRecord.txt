@@ -1,0 +1,101 @@
+ENG001
+To Kill a Mockingbird
+Harper Lee
+3
+
+ENG002
+Pride and Prejudice
+Jane Austen
+4
+
+ENG003
+The Great Gatsby
+F.Scott Fitzgerald
+2
+
+ENG004
+The Catcher in the Rye
+J.D Salinger
+5
+
+ENG005
+Brave New World
+Aldous Haxley
+6
+
+ENG006
+To The Lighthouse
+Virginia Woolf
+2
+
+ENG007
+Animal Farm
+Geoge Orwell
+8
+
+ENG008
+The Lord of the Rings
+J.R.R Tolkien
+7
+
+ENG009
+Jane Eyre
+Charlotte Bronte
+8
+
+ENG010
+Wuthering Heights
+Emily Bronte
+6
+
+ENG011
+The Hobbit
+J.R.R Tolkien
+3
+
+ENG012
+Moby-Dick
+Herman Melville
+8
+
+ENG013
+The Adventures of Sherlock Holmes
+Arthur Conan Doyle
+4
+
+ENG014
+The Picture of Dorian Gray
+Osacr Wilde
+4
+
+ENG015
+Frankenstein
+Mary Shelly
+5
+
+ENG016
+High School English Grammar & Composition
+H.Martin
+7
+
+ENG017
+Gone with the Wind
+Margaret Mitchell
+8
+
+ENG018
+The Alchemist
+Paulo Coelho
+7
+
+ENG019
+The Road
+Corman McCarthy
+2
+
+ENG020
+The Secret History
+Donna Truce
+6
+
+

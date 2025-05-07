@@ -1,0 +1,75 @@
+MATH001
+Principia Mathematica
+Alfred North Whitehead
+3
+
+MATH002
+The Elements
+Euclid
+3
+
+MATH003
+Introduction to Statistics
+A.N Kolmogorov
+4
+
+MATH004
+Mathematics:Its Contents,Methods & Meaning
+Robert V.Hogg
+5
+
+MATH005
+A Course of Pure Mathematics
+G.H Hardy
+6
+
+MATH006
+Principles of Mathematical Analysis
+Walter Rudin
+6
+
+MATH007
+How to Prove it:A Structured Approach
+Daniel J.Vellerman
+3
+
+MATH008
+Linear Algebra Done Right
+Sheldon Axler
+5
+
+MATH009
+Calculus
+Michael Spivak
+6
+
+MATH010
+Topology
+James R.Munkres
+7
+
+MATH011
+Statistics for Dummies
+Deborah J.Rumsey
+3
+
+MATH012
+Trignometry for Dummies
+Mary Jane Sterling
+4
+
+MATH013
+Maths in Minutes
+Paul Glendinning
+5
+
+MATH014
+Proofs in Mathematics
+Alex Wilkie
+4
+
+MATH015
+Algebra for Dummies
+Mary Jane Sterling
+6
+

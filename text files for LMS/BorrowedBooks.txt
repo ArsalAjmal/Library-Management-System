@@ -1,0 +1,82 @@
+ENG003
+The Great Gatsby
+233531
+
+ISL003
+In the Footsteps of the Prophet
+233531
+
+MATH003
+Introduction to Statistics
+233531
+
+ISL009
+The Vision of Islam
+3356
+
+CS009
+Artificial Intelligence: A Modern Approach
+1213
+
+CS005
+Elements of Reusable Object Oriented Programming
+4546
+
+MATH008
+Linear Algebra Done Right
+54554
+
+MATH004
+Mathematics:Its Contents,Methods & Meaning
+2334
+
+HIS005
+A Short History of Nearly Everything
+233531
+
+ISL009
+The Vision of Islam
+233531
+
+ISL003
+In the Footsteps of the Prophet
+233531
+
+ISL001
+Sahih al-Bukhari
+233531
+
+CS025
+Computer Vision: Algorithms and Applications
+233533
+
+ENG020
+The Secret History
+233533
+
+ENG003
+The Great Gatsby
+233531
+
+ENG003
+The Great Gatsby
+233531
+
+CS008
+Computer Networking
+233533
+
+CS009
+Artificial Intelligence: A Modern Approach
+233581
+
+ISL010
+The Road to Mecca
+233531
+
+HIS003
+The Rise and Fall of the Third Reich
+233531
+ISL003
+In the Footsteps of the Prophet
+233531
